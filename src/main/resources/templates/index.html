@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+   <meta charset="UTF-8">
+   <title>Calculadora Pós-Fixada</title>
+   <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<div class="container">
+   <h1>Calculadora Pós-Fixada</h1>
+   <form th:action="@{/calcular}" method="post">
+       <input type="text" name="expressao" placeholder="Digite a expressão, ex: 3 4 +" required />
+       <button type="submit">Calcular</button>
+   </form>
+   <div class="resultado" th:if="${resultado != null}">
+       Resultado: <span th:text="${resultado}"></span>
+   </div>
+   <div class="erro" th:if="${erro != null}">
+       Erro: <span th:text="${erro}"></span>
+   </div>
+</div>
+</body>
+</html>
