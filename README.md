@@ -1,15 +1,15 @@
-# Calculadora Pós-Fixada (Spring Boot)
+# 🖩 Calculadora Pós-Fixada (Spring Boot)
 
 Esta aplicação simula uma calculadora científica que avalia expressões aritméticas na notação pós-fixada (notação polonesa reversa), utilizando estrutura de **fila dinâmica** e **pilha**.
 
-## Tecnologias
+## ⚙️ Tecnologias
 - Java 17+
 - Spring Boot
 - Thymeleaf
 - HTML/CSS
 - Maven
 
-## Organização
+## 🗂️ Organização
 O código está dividido em pacotes com responsabilidades bem definidas:
 - `FilaDinamica.java`: implementação de fila usando `LinkedList`
 - `Pilha.java`: pilha com `ArrayDeque`
@@ -19,7 +19,7 @@ O código está dividido em pacotes com responsabilidades bem definidas:
 
 Todos os métodos estão **comentados** explicando sua função.
 
-## Execução local
+## 🚀 Execução local
 
 ```bash
 git clone https://github.com/seu-usuario/calculadora-posfixada.git
