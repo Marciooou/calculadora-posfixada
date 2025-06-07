@@ -19,6 +19,13 @@ O código está dividido em pacotes com responsabilidades bem definidas:
 
 Todos os métodos estão **comentados** explicando sua função.
 
+## 👥 Integrantes da Equipe ✍️
+
+[Márcio Augusto Silva Ramos Filho]
+[João Victor Alcântara Pinheiro]
+[Davi Moreira Lima]
+[Nilo Calvin]
+
 ## 🚀 Execução local
 
 ```bash
