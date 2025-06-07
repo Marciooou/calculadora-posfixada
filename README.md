@@ -21,10 +21,10 @@ Todos os métodos estão **comentados** explicando sua função.
 
 ## 👥 Integrantes da Equipe ✍️
 
-[Márcio Augusto Silva Ramos Filho]
-[João Victor Alcântara Pinheiro]
-[Davi Moreira Lima]
-[Nilo Calvin]
+- [Márcio Augusto Silva Ramos Filho]
+- [João Victor Alcântara Pinheiro]
+- [Davi Moreira Lima]
+- [Nilo Calvin]
 
 ## 🚀 Execução local
 
